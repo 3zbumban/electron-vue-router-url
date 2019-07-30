@@ -5,8 +5,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/3zbumban/electron-vue-router-url/graphs/commit-activity)
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD-3-Clause-yellow.svg)](https://github.com/3zbumban/electron-vue-router-url/blob/master/LICENSE)
 
-> electron vue router url tool
-
 ## Install
 
 ```sh
