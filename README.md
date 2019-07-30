@@ -1,9 +1,8 @@
-# Welcome to electron-vue-router-url 👋
+# electron-vue-router-url
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/3zbumban/electron-vue-router-url#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/3zbumban/electron-vue-router-url/graphs/commit-activity)
-[![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD-3-Clause-yellow.svg)](https://github.com/3zbumban/electron-vue-router-url/blob/master/LICENSE)
 
 ## Install
 
@@ -13,7 +12,7 @@ npm i electron-vue-router-url --save
 
 ## Usage
 
-First of all, you need to disable mode: 'history' in your vue-router, check in [vue-router docs](https://router.vuejs.org/guide/essentials/history-mode.html)
+First of all, you need to disable `mode: 'history'` in your vue-router, check in [vue-router docs](https://router.vuejs.org/guide/essentials/history-mode.html)
 
 Then do the following:
 
@@ -77,7 +76,7 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2019 [3zbumban](https://github.com/3zbumban).
 
-This project is [BSD-3-Clause](https://github.com/3zbumban/electron-vue-router-url/blob/master/LICENSE) licensed.
+This project is [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
