@@ -4,5 +4,9 @@
   "description": "electron vue router url tool",
   "main": "index.js",
   "author": "3zbumban",
-  "license": "MIT"
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/3zbumban/electron-vue-router-url.git"
+  }
 }
