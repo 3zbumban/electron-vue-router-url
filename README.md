@@ -18,6 +18,7 @@ npm i electron-vue-router-url --save
 First of all, you need to disable mode: 'history' in your vue-router, check in [vue-router docs](https://router.vuejs.org/guide/essentials/history-mode.html)
 
 Then do the following:
+
 **src/main/index.js** example:
 
 ```js
@@ -31,7 +32,8 @@ ipc.on('showChart', function (e, data) {
 })
 ```
 
-In your router, use the exactly path to your url
+In your router, use the exact path to your url
+
 **src/renderer/router.js** example
 
 ```js
