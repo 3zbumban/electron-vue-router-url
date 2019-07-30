@@ -1,12 +1,12 @@
 {
   "name": "electron-vue-router-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "electron vue router url tool",
   "main": "index.js",
   "author": "3zbumban",
   "license": "BSD-3-Clause",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/3zbumban/electron-vue-router-url.git"
+    "type": "git",
+    "url": "https://github.com/3zbumban/electron-vue-router-url.git"
   }
 }
