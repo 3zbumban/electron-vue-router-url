@@ -15,10 +15,9 @@ npm i electron-vue-router-url --save
 
 ## Usage
 
-1. First of all, you need to disable mode: 'history' in your vue-router, check in vue-router docs
+First of all, you need to disable mode: 'history' in your vue-router, check in [vue-router docs](https://router.vuejs.org/guide/essentials/history-mode.html)
 
 Then do the following:
-
 **src/main/index.js** example:
 
 ```js
