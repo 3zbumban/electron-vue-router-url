@@ -1,4 +1,5 @@
 # Welcome to electron-vue-router-url 👋
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/3zbumban/electron-vue-router-url#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/3zbumban/electron-vue-router-url/graphs/commit-activity)
@@ -62,7 +63,6 @@ new BrowserWindow({
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
 
 ## 📝 License
 
